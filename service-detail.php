@@ -152,64 +152,69 @@
     }
     ?>
     <title><?php echo htmlspecialchars($service['title']); ?> | Tavix Events</title>
-    <meta name="description" content="<?php echo htmlspecialchars($service['title']); ?> services by Tavix Events in Chandigarh with premium planning and execution support." />
-    <meta name="keywords" content="Tavix Events, <?php echo htmlspecialchars($service['title']); ?>, Chandigarh event planning" />
+    <meta name="description"
+        content="<?php echo htmlspecialchars($service['title']); ?> services by Tavix Events in Chandigarh with premium planning and execution support." />
+    <meta name="keywords"
+        content="Tavix Events, <?php echo htmlspecialchars($service['title']); ?>, Chandigarh event planning" />
     <link rel="canonical" href="index.php" />
     <link rel="icon" href="img/favicon.png" type="image/png" />
 
     <link rel="preconnect" href="../../../../../fonts.googleapis.com/index.html" />
     <link rel="preconnect" href="../../../../../fonts.gstatic.com/index.html" crossorigin />
-    <link href="../../../../../fonts.googleapis.com/css27b24.css?family=Didact+Gothic&amp;family=Playfair+Display:ital,wght@0,400..900;1,400..900&amp;display=swap" rel="stylesheet" />
+    <link
+        href="../../../../../fonts.googleapis.com/css27b24.css?family=Didact+Gothic&amp;family=Playfair+Display:ital,wght@0,400..900;1,400..900&amp;display=swap"
+        rel="stylesheet" />
 
     <link rel="stylesheet" href="css/plugins.css" />
     <link rel="stylesheet" href="css/style.css" />
     <style>
-        .service-detail-row {
-            align-items: stretch;
-        }
+    .service-detail-row {
+        align-items: stretch;
+    }
 
-        .service-detail-image,
-        .service-detail-content {
-            display: flex;
-            flex-direction: column;
-            justify-content: flex-start;
-        }
+    .service-detail-image,
+    .service-detail-content {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+    }
 
+    .service-detail-image img {
+        width: 100%;
+        height: 100%;
+        min-height: 520px;
+        object-fit: cover;
+        display: block;
+        margin-bottom: 0 !important;
+    }
+
+    .service-detail-content .page-list {
+        margin-bottom: 20px;
+    }
+
+    .service-back-btn {
+        margin-top: auto;
+        display: inline-block;
+    }
+
+    @media (max-width: 991.98px) {
         .service-detail-image img {
-            width: 100%;
-            height: 100%;
-            min-height: 520px;
-            object-fit: cover;
-            display: block;
-            margin-bottom: 0 !important;
-        }
-
-        .service-detail-content .page-list {
-            margin-bottom: 20px;
+            min-height: auto;
+            height: auto;
         }
 
         .service-back-btn {
-            margin-top: auto;
-            display: inline-block;
+            margin-top: 10px;
         }
-
-        @media (max-width: 991.98px) {
-            .service-detail-image img {
-                min-height: auto;
-                height: auto;
-            }
-
-            .service-back-btn {
-                margin-top: 10px;
-            }
-        }
+    }
     </style>
 </head>
 
 <body>
     <?php include 'includes/header.php'; ?>
 
-    <div class="banner-header section-padding valign bg-img bg-fixed" data-overlay-dark="3" data-background="<?php echo htmlspecialchars($service['hero_image']); ?>">
+    <div class="banner-header section-padding valign bg-img bg-fixed" data-overlay-dark="3"
+        data-background="<?php echo htmlspecialchars($service['hero_image']); ?>">
         <div class="container">
             <div class="row">
                 <div class="col-md-6 slider-text js-fullheight">
@@ -234,27 +239,32 @@
         <div class="container">
             <div class="row service-detail-row">
                 <div class="col-md-5 animate-box service-detail-image" data-animate-effect="fadeInLeft">
-                    <img src="<?php echo htmlspecialchars($service['content_image']); ?>" class="img-fluid mb-30" alt="<?php echo htmlspecialchars($service['title']); ?>" />
+                    <img src="<?php echo htmlspecialchars($service['content_image']); ?>" class="img-fluid mb-30"
+                        alt="<?php echo htmlspecialchars($service['title']); ?>" />
                 </div>
                 <div class="col-md-7 animate-box service-detail-content" data-animate-effect="fadeInLeft">
                     <p><?php echo htmlspecialchars($service['details']); ?></p>
                     <h4 class="pwe-about-subheading">What We Include</h4>
                     <ul class="list-unstyled page-list mb-30">
                         <?php foreach ($service['includes'] as $item): ?>
-                            <li>
-                                <div class="page-list-icon"><span class="ti-check"></span></div>
-                                <div class="page-list-text"><p><?php echo htmlspecialchars($item); ?></p></div>
-                            </li>
+                        <li>
+                            <div class="page-list-icon"><span class="ti-check"></span></div>
+                            <div class="page-list-text">
+                                <p><?php echo htmlspecialchars($item); ?></p>
+                            </div>
+                        </li>
                         <?php endforeach; ?>
                     </ul>
 
                     <h4 class="pwe-about-subheading">Key Deliverables</h4>
                     <ul class="list-unstyled page-list mb-30">
                         <?php foreach ($service['deliverables'] as $item): ?>
-                            <li>
-                                <div class="page-list-icon"><span class="ti-star"></span></div>
-                                <div class="page-list-text"><p><?php echo htmlspecialchars($item); ?></p></div>
-                            </li>
+                        <li>
+                            <div class="page-list-icon"><span class="ti-star"></span></div>
+                            <div class="page-list-text">
+                                <p><?php echo htmlspecialchars($item); ?></p>
+                            </div>
+                        </li>
                         <?php endforeach; ?>
                     </ul>
 
@@ -266,7 +276,7 @@
         </div>
     </section>
 
-    <section class="section-padding bg-cream">
+    <!-- <section class="section-padding bg-cream">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 mb-30">
@@ -391,7 +401,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <?php include 'includes/testimonials.php'; ?>
 
@@ -413,7 +423,8 @@
                             <form method="post" class="contact__form" action="#">
                                 <div class="row">
                                     <div class="col-12">
-                                        <div class="alert alert-success contact__msg" style="display: none" role="alert">
+                                        <div class="alert alert-success contact__msg" style="display: none"
+                                            role="alert">
                                             Your inquiry was sent successfully.
                                         </div>
                                     </div>
@@ -429,7 +440,8 @@
                                         <input name="email" type="email" placeholder="Email Address *" required />
                                     </div>
                                     <div class="col-md-12 form-group">
-                                        <textarea name="message" rows="3" placeholder="Tell us about your event"></textarea>
+                                        <textarea name="message" rows="3"
+                                            placeholder="Tell us about your event"></textarea>
                                     </div>
                                     <div class="col-md-12">
                                         <button class="butn-dark" type="submit"><span>Submit Inquiry</span></button>

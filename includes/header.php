@@ -83,10 +83,10 @@ $servicePages = [
                         </li>
                     </ul>
                 </li>
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
-                        data-bs-auto-close="outside" aria-expanded="false">Blog <i class="ti-angle-down"></i></a>
-                    <ul class="dropdown-menu">
+                <li class="nav-item">
+                    <a class="nav-link <?php echo $currentPage === 'our-process.php' ? 'active' : ''; ?>"
+                        href="our-process.php">Our Process</a>
+                    <!-- <ul class="dropdown-menu">
                         <li>
                             <a href="blog-2-column.html" class="dropdown-item"><span>Blog 2 Column</span></a>
                         </li>
@@ -96,7 +96,7 @@ $servicePages = [
                         <li>
                             <a href="blog-left-sidebar.html" class="dropdown-item"><span>Blog Left Sidebar</span></a>
                         </li>
-                    </ul>
+                    </ul> -->
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
@@ -127,12 +127,12 @@ $servicePages = [
                     </ul>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link <?php echo $currentPage === 'gallery.html' ? 'active' : ''; ?>"
-                        href="gallery.html">Gallery</a>
+                    <a class="nav-link <?php echo in_array($currentPage, ['gallery.php','gallery.html']) ? 'active' : ''; ?>"
+                        href="gallery.php">Gallery</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link <?php echo $currentPage === 'contact.html' ? 'active' : ''; ?>"
-                        href="contact.html">Contact</a>
+                    <a class="nav-link <?php echo $currentPage === 'contact.php' ? 'active' : ''; ?>"
+                        href="contact.php">Contact</a>
                 </li>
             </ul>
         </div>
