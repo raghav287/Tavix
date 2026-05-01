@@ -71,17 +71,9 @@ $servicePages = [
                     <a class="nav-link <?php echo in_array($currentPage, $servicePages) ? 'active' : ''; ?>"
                         href="services.php">Services</a>
                 </li>
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
-                        data-bs-auto-close="outside" aria-expanded="false">Portfolio <i class="ti-angle-down"></i></a>
-                    <ul class="dropdown-menu">
-                        <li>
-                            <a href="portfolio-grid.html" class="dropdown-item"><span>Portfolio Grid</span></a>
-                        </li>
-                        <li>
-                            <a href="portfolio-masonry.html" class="dropdown-item"><span>Portfolio Masonry</span></a>
-                        </li>
-                    </ul>
+                <li class="nav-item">
+                    <a class="nav-link <?php echo $currentPage === 'testimonial.php' ? 'active' : ''; ?>"
+                        href="testimonial.php">Testimonials</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link <?php echo $currentPage === 'our-process.php' ? 'active' : ''; ?>"
@@ -98,7 +90,7 @@ $servicePages = [
                         </li>
                     </ul> -->
                 </li>
-                <li class="nav-item dropdown">
+                <!-- <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
                         data-bs-auto-close="outside" aria-expanded="false">Pages <i class="ti-angle-down"></i></a>
                     <ul class="dropdown-menu">
@@ -125,7 +117,7 @@ $servicePages = [
                             </ul>
                         </li>
                     </ul>
-                </li>
+                </li> -->
                 <li class="nav-item">
                     <a class="nav-link <?php echo in_array($currentPage, ['gallery.php','gallery.html']) ? 'active' : ''; ?>"
                         href="gallery.php">Gallery</a>
