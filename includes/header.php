@@ -31,8 +31,8 @@
             <ul class="navbar-nav ms-auto">
                 <li class="nav-item dropdown">
                     <a class="nav-link active dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
-                        data-bs-auto-close="outside" aria-expanded="false">Home <i class="ti-angle-down"></i></a>
-                    <ul class="dropdown-menu">
+                        data-bs-auto-close="outside" aria-expanded="false">Home</a>
+                    <!-- <ul class="dropdown-menu">
                         <li>
                             <a href="index-2.html" class="dropdown-item active"><span>Slider</span></a>
                         </li>
@@ -48,7 +48,7 @@
                         <li>
                             <a href="onepage.html" class="dropdown-item"><span>Onepage</span></a>
                         </li>
-                    </ul>
+                    </ul> -->
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="about.html">About</a>

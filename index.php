@@ -6,10 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Tavix Events</title>
     <meta name="description"
-        content="Florya is a premium wedding planner template featuring Light & Dark modes for both Onepage and Multipage layouts. Perfect for event organizers, photographers, and luxury planners." />
+        content="Tavix Events is a premium Chandigarh-based event planning and management company founded by Pooja Thakur and Manish Thakur, delivering weddings, corporate and social events with end-to-end execution." />
     <meta name="keywords"
-        content="wedding planner, event organizer, wedding coordinator, dark mode wedding, light mode, onepage wedding, multipage, wedding photographer, parallax, video background, bootstrap 5, outfit font, luxury event, rsvp, duruthemes, florya wedding and event planner template" />
-    <meta name="author" content="DuruThemes" />
+        content="Tavix Events, Chandigarh event planner, wedding planning, destination wedding, corporate events, social celebrations, luxury event styling, event management India" />
+    <meta name="author" content="Tavix Events" />
     <meta name="robots" content="index, follow" />
     <link rel="canonical" href="index.html" />
     <link rel="icon" href="img/favicon.png" type="image/png" />
@@ -37,11 +37,11 @@
                             <div class="col-md-6 slider-text js-fullheight">
                                 <div class="slider-text-inner">
                                     <div class="desc">
-                                        <h4>Dream Maker</h4>
-                                        <h1>Wedding & Event Planner For Colorful Couples</h1>
+                                        <h4>Tavix Events</h4>
+                                        <h1>Premium Event Planning & Management</h1>
                                         <p>
-                                            We would love to meet up and chat about how we can make
-                                            <span>your dream</span> wedding happen!
+                                            Rebranded in 2024 from Elegant Events (founded in 2020),
+                                            we create <span>seamless, creative</span> event experiences.
                                         </p>
                                     </div>
                                 </div>
@@ -57,11 +57,11 @@
                             <div class="col-md-6 slider-text js-fullheight">
                                 <div class="slider-text-inner">
                                     <div class="desc">
-                                        <h4>Dream Maker</h4>
-                                        <h1>International & Destination Wedding Planner</h1>
+                                        <h4>Founded By</h4>
+                                        <h1>Pooja Thakur & Manish Thakur</h1>
                                         <p>
-                                            No matter your dreams - we can assist you in planning
-                                            your <span>weddings - events</span>.
+                                            Based in Chandigarh, we deliver end-to-end planning for
+                                            <span>weddings, corporate, and social events</span>.
                                         </p>
                                     </div>
                                 </div>
@@ -77,12 +77,11 @@
                             <div class="col-md-6 slider-text js-fullheight">
                                 <div class="slider-text-inner">
                                     <div class="desc">
-                                        <h4>Dream Wedding</h4>
-                                        <h1>We Make Your Wedding Dreams Come</h1>
+                                        <h4>Our Vision</h4>
+                                        <h1>India's Trusted Premium Event Brand</h1>
                                         <p>
-                                            We believe that it is all about the
-                                            <span>big dreams</span> and the small details! Nullam
-                                            vestibulum iaculis maximus.
+                                            We blend creativity, precision, and transparent execution
+                                            to exceed <span>client expectations</span>.
                                         </p>
                                     </div>
                                 </div>
@@ -93,35 +92,32 @@
             </div>
         </div>
     </header>
-    <!-- About Florya Weddings -->
+    <!-- About Tavix Events -->
     <section class="about section-padding bg-green">
         <div class="container">
             <div class="row">
                 <div class="col-md-5 animate-box" data-animate-effect="fadeInUp">
-                    <div class="section-subtitle white">What we do</div>
+                    <div class="section-subtitle white">Company Overview</div>
                     <div class="section-title white">
-                        A wedding that is <span class="white">True</span> as you are!
+                        Tavix <span class="white">Events</span>
                     </div>
                     <p>
-                        We would love to meet up and chat about how we can make your dream
-                        wedding happen! Nullam vestibulum iaculis maximus. International
-                        facilisis leo at ac tristique nunc vulputate.
+                        Tavix Events is a premium event planning and management company
+                        headquartered in Chandigarh, India. Established in 2024, Tavix is
+                        the evolved brand of Elegant Events, originally founded in 2020.
                     </p>
                 </div>
                 <div class="col-md-6 offset-md-1 mt-30 animate-box" data-animate-effect="fadeInUp">
                     <p>
-                        Nullam vestibulum iaculis maximus. In facilisis leo at leo
-                        convallis, ac tristique nunc vulputate. Maecenas volutpat molestie
-                        purus eu tempus. Mauris daisen aliquet augue, id aliquam enim
-                        faucibus aucton.
+                        Our mission is to deliver exceptional, creative, and seamless
+                        event experiences with the highest standards of professionalism,
+                        innovation, and timely execution.
                     </p>
                     <p>
-                        Maecenas volutpat molestie purus eu tempus. Mauris dapibus aliquet
-                        augue, id aliquam enim faucibus auctor. Vestibulum eget dui quis
-                        tortor mollis tempor quis non turpis. Donec eget semper neque. In
-                        aliquam tristique consectetur. Etiam venenatis lobortis neque,
-                        eget sollicitudin erat venenatis sit amet. In interdum odio at
-                        nunc pulvinar viverra rutrum id est.
+                        Our core values are client-centric planning, creativity,
+                        transparency, attention to detail, and trust-driven delivery.
+                        We aim to become one of India’s most trusted premium event
+                        management brands.
                     </p>
                     <div class="butn-light mt-15">
                         <a href="about.html"><span>Find out more</span></a>
@@ -135,15 +131,15 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-5 mb-30">
-                    <div class="section-subtitle">The experience</div>
+                    <div class="section-subtitle">Areas of Expertise</div>
                     <div class="section-title">Explore <span>Services</span></div>
                 </div>
                 <div class="col-md-7 mb-30">
                     <p>
-                        Professional Wedding & Event Planner surabit aliquet orci elit
-                        gene tristisue in lorem dream vitae alisuam tincidunt felis sed
-                        gravida aliquam nemue libero hendrerit magna sit amenta the mollis
-                        lacus huam maurisine alisuam erat volutfat.
+                        Our services include wedding planning, corporate events, social
+                        celebrations, and specialized event support. Every event is
+                        customized with transparent costing, strong vendor coordination,
+                        and end-to-end execution.
                     </p>
                 </div>
             </div>
@@ -156,7 +152,7 @@
                             </div>
                             <div class="con">
                                 <h5>
-                                    <a href="services-page.html">Wedding <span>Planner</span></a>
+                                    <a href="services-page.html">Wedding <span>Services</span></a>
                                 </h5>
                                 <div class="line"></div>
                                 <div class="row facilities">
@@ -174,7 +170,7 @@
                             </div>
                             <div class="con">
                                 <h5>
-                                    <a href="services-page.html">Master of <span>Ceremonies</span></a>
+                                    <a href="services-page.html">Corporate <span>Events</span></a>
                                 </h5>
                                 <div class="line"></div>
                                 <div class="row facilities">
@@ -192,7 +188,7 @@
                             </div>
                             <div class="con">
                                 <h5>
-                                    <a href="services-page.html">Special <span>Events</span></a>
+                                    <a href="services-page.html">Social <span>Events</span></a>
                                 </h5>
                                 <div class="line"></div>
                                 <div class="row facilities">
@@ -210,7 +206,7 @@
                             </div>
                             <div class="con">
                                 <h5>
-                                    <a href="services-page.html"><span>Birthday</span> Planner</a>
+                                    <a href="services-page.html"><span>Theme-Based</span> Event Design</a>
                                 </h5>
                                 <div class="line"></div>
                                 <div class="row facilities">
@@ -228,7 +224,7 @@
                             </div>
                             <div class="con">
                                 <h5>
-                                    <a href="services-page.html">Destination <span>Wedding</span></a>
+                                    <a href="services-page.html">Venue & <span>Vendor Management</span></a>
                                 </h5>
                                 <div class="line"></div>
                                 <div class="row facilities">
@@ -246,7 +242,7 @@
                             </div>
                             <div class="con">
                                 <h5>
-                                    <a href="services-page.html">Corporate <span>Events</span></a>
+                                    <a href="services-page.html">Hospitality & <span>Guest Logistics</span></a>
                                 </h5>
                                 <div class="line"></div>
                                 <div class="row facilities">
@@ -281,14 +277,15 @@
                                         <i class="star-rating"></i>
                                     </span>
                                     <h5>
-                                        " If you manage to get Samantha as your wedding planner,
-                                        you are one lucky couple. We highly recommend! "
+                                        " Tavix Events planned our wedding functions beautifully.
+                                        From Haldi to reception, everything was managed smoothly
+                                        with clear communication and full professionalism. "
                                     </h5>
                                     <div class="info">
                                         <div class="cont">
                                             <h6>
-                                                Emily & Enrico <i>|</i>
-                                                <span><a href="portfolio-page.html">View the wedding</a></span>
+                                                Riya & Karan, Chandigarh <i>|</i>
+                                                <span><a href="portfolio-page.html">View highlights</a></span>
                                             </h6>
                                         </div>
                                     </div>
@@ -302,14 +299,15 @@
                                         <i class="star-rating"></i>
                                     </span>
                                     <h5>
-                                        " If you manage to get Duru as your wedding planner, you
-                                        are one lucky couple. We highly recommend! "
+                                        " We hired Tavix for our product launch in Mohali and the
+                                        execution was excellent. Their team handled operations,
+                                        vendors, and timeline perfectly within budget. "
                                     </h5>
                                     <div class="info">
                                         <div class="cont">
                                             <h6>
-                                                Cynthia & Carl <i>|</i>
-                                                <span><a href="portfolio-page.html">View the wedding</a></span>
+                                                Arvind Malhotra, Business Owner <i>|</i>
+                                                <span><a href="portfolio-page.html">View highlights</a></span>
                                             </h6>
                                         </div>
                                     </div>
@@ -323,14 +321,15 @@
                                         <i class="star-rating"></i>
                                     </span>
                                     <h5>
-                                        " If you manage to get Duru as your wedding planner, you
-                                        are one lucky couple. We highly recommend! "
+                                        " For our family anniversary celebration, Tavix created a
+                                        lovely theme setup and managed all guests very well.
+                                        The experience was stress-free and memorable. "
                                     </h5>
                                     <div class="info">
                                         <div class="cont">
                                             <h6>
-                                                Lauren & Wayne <i>|</i>
-                                                <span><a href="portfolio-page.html">View the wedding</a></span>
+                                                Neha Sharma, Ludhiana <i>|</i>
+                                                <span><a href="portfolio-page.html">View highlights</a></span>
                                             </h6>
                                         </div>
                                     </div>
@@ -342,147 +341,63 @@
             </div>
         </div>
     </section>
-    <!-- About Us -->
-    <section class="about2 cover section-padding">
-        <div class="container">
+    <!-- Lead Form -->
+    <section class="signup">
+        <div class="container-fluid">
             <div class="row">
-                <div class="col-md-6 mb-30 animate-box" data-animate-effect="fadeInUp">
-                    <div class="section-subtitle">About Us</div>
-                    <div class="section-title">Florya <span>Weddings</span></div>
-                    <p>
-                        You can choose any country with good tourism wedding elementum
-                        sesue the aucan vestibulum aliquam justo in sapien rutrum
-                        volutpat. Donec in quis the pellentesque velit florya id velit ac
-                        arcu posuere blane.
-                    </p>
-                    <p>
-                        Wedding nissuam nestibulum ac quam nec odio elementum ceisue the
-                        miss varius natoque penatibus et magnis dis parturient monte.
-                    </p>
-                    <ul class="list-unstyled about-list mb-30">
-                        <li>
-                            <div class="about-list-icon">
-                                <span class="ti-check"></span>
-                            </div>
-                            <div class="about-list-text">
-                                <p>20 Years of Experience</p>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="about-list-icon">
-                                <span class="ti-check"></span>
-                            </div>
-                            <div class="about-list-text">
-                                <p>250+ Wedding Planner</p>
-                            </div>
-                        </li>
-                    </ul>
-                    <hr class="border" />
-                    <div class="about-bottom">
-                        <img src="img/signature-dark.svg" alt="" class="image about-signature" />
-                        <div class="about-name-wrapper">
-                            <div class="about-name">Samantha Megan</div>
-                            <div class="about-rol">Wedding Planner</div>
-                        </div>
-                    </div>
+                <div class="col-md-6 p-0">
+                    <div class="img left"><img src="img/signup.jpg" alt="Quick inquiry" /></div>
                 </div>
-                <div class="col-md-5 offset-md-1 animate-box" data-animate-effect="fadeInUp">
-                    <div class="img-exp">
-                        <div class="about-img">
-                            <div class="img">
-                                <img src="img/about.jpg" class="img-fluid" alt="" />
-                            </div>
-                        </div>
-                        <div id="circle">
-                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg"
-                                xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="300px" height="300px"
-                                viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">
-                                <defs>
-                                    <path id="circlePath"
-                                        d=" M 150, 150 m -60, 0 a 60,60 0 0,1 120,0 a 60,60 0 0,1 -120,0 " />
-                                </defs>
-                                <circle cx="150" cy="100" r="75" fill="none" />
-                                <g>
-                                    <use xlink:href="#circlePath" fill="none" />
-                                    <text fill="#575c57">
-                                        <textPath xlink:href="#circlePath">
-                                            . florya weddings . planner
-                                        </textPath>
-                                    </text>
-                                </g>
-                            </svg>
+                <div class="col-md-6 p-0 valign">
+                    <div class="content">
+                        <div class="cont text-left">
+                            <h6>Quick Inquiry</h6>
+                            <h4>Let's Plan Your <span>Event</span></h4>
+                            <p>
+                                Weddings, corporate events, private celebrations, or brand
+                                activations - share your requirement and we will get in touch.
+                            </p>
+                            <form method="post" class="contact__form" action="#">
+                                <div class="row">
+                                    <div class="col-12">
+                                        <div class="alert alert-success contact__msg" style="display: none"
+                                            role="alert">
+                                            Your inquiry was sent successfully.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-6 form-group">
+                                        <input name="name" type="text" placeholder="Full Name *" required />
+                                    </div>
+                                    <div class="col-md-6 form-group">
+                                        <input name="phone" type="text" placeholder="Phone Number *" required />
+                                    </div>
+                                    <div class="col-md-12 form-group">
+                                        <input name="email" type="email" placeholder="Email Address *" required />
+                                    </div>
+                                    <div class="col-md-12 form-group">
+                                        <textarea name="message" rows="3"
+                                            placeholder="Tell us about your event"></textarea>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <button class="butn-dark" type="submit"><span>Submit Inquiry</span></button>
+                                    </div>
+                                </div>
+                            </form>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <!-- Wedding Dates -->
-    <section class="section-padding bg-green">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-5">
-                    <div class="section-subtitle white">Dateline</div>
-                    <div class="section-title white">
-                        Wedding <span class="white">Dates</span>
-                    </div>
-                    <p class="white">
-                        Your at-a-glance guide to where I stand on all the truly important
-                        things. Wedding elit miss the eget the solin miss citudino selus
-                        rutrum in miss vestibulum eleifen ornare torto.
-                    </p>
-                    <div class="butn-light mt-15 mb-30">
-                        <a href="contact.html"><span>Get in touch</span></a>
-                    </div>
-                </div>
-                <div class="col-md-6 offset-md-1">
-                    <table class="wedding-date-table">
-                        <tbody>
-                            <tr>
-                                <td>
-                                    <h6>1. Switzerland<br /><span>{September : 2026}</span></h6>
-                                </td>
-                                <td>
-                                    <p>florya</p>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <h6>2. Italy<br /><span>{October : 2026}</span></h6>
-                                </td>
-                                <td>
-                                    <p>Rome</p>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <h6>3. Amsterdam<br /><span>{November : 2026}</span></h6>
-                                </td>
-                                <td>
-                                    <p>Netherlands</p>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <h6>4. Spain<br /><span>{December : 2026}</span></h6>
-                                </td>
-                                <td>
-                                    <p>Barcelona</p>
-                                </td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Portfolio -->
+    <!-- Gallery Slider -->
     <section class="portfolio section-padding">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 mb-30">
-                    <div class="section-subtitle">Works</div>
-                    <div class="section-title">Our <span>Portfolio</span></div>
+                    <div class="section-subtitle">Gallery</div>
+                    <div class="section-title">Event <span>Highlights</span></div>
                 </div>
             </div>
             <div class="row">
@@ -492,24 +407,24 @@
                             <div class="square bg-img" data-background="img/couple/5.jpg">
                                 <div class="square-container d-flex align-items-end justify-content-end">
                                     <div class="box-title">
-                                        <h4>C & C</h4>
-                                        <h6>Lakewood WA, USA</h6>
+                                        <h4>Wedding</h4>
+                                        <h6>Mid to Luxury Segment</h6>
                                     </div>
                                 </div>
                                 <div class="flip-overlay"></div>
                             </div>
                             <div class="square2 bg-green">
                                 <div class="square-container2">
-                                    <h4>Cynthia & Carl</h4>
+                                    <h4>Wedding Planning</h4>
                                     <p>
-                                        Lorem nissuam nestibulum duru quam the odion elementum
-                                        ceisue the misse varie natoque enatibus et dis monte.
+                                        Tailored planning for weddings and pre-wedding functions
+                                        including Haldi, Mehendi, and Sangeet.
                                     </p>
                                     <div class="row portfolio-list mb-30">
                                         <div class="col-md-12">
                                             <ul>
-                                                <li>Wedding Planner : Rachel Starletta</li>
-                                                <li>Photographer : Janet Lewis</li>
+                                                <li>Service : Full & Destination Weddings</li>
+                                                <li>Approach : Customized Experience</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -523,24 +438,24 @@
                             <div class="square bg-img" data-background="img/couple/3.jpg">
                                 <div class="square-container d-flex align-items-end justify-content-end">
                                     <div class="box-title">
-                                        <h4>L & W</h4>
-                                        <h6>Green House, Manhattan</h6>
+                                        <h4>Corporate</h4>
+                                        <h6>Brands and Businesses</h6>
                                     </div>
                                 </div>
                                 <div class="flip-overlay"></div>
                             </div>
                             <div class="square2 bg-green">
                                 <div class="square-container2">
-                                    <h4>Lauren & Wayne</h4>
+                                    <h4>Corporate Events</h4>
                                     <p>
-                                        Lorem nissuam nestibulum duru quam the odion elementum
-                                        ceisue the misse varie natoque enatibus et dis monte.
+                                        Professional management of conferences, product launches,
+                                        award functions, and team building activities.
                                     </p>
                                     <div class="row portfolio-list mb-30">
                                         <div class="col-md-12">
                                             <ul>
-                                                <li>Wedding Planner : Rachel Starletta</li>
-                                                <li>Photographer : Janet Lewis</li>
+                                                <li>Service : Meetings & Activations</li>
+                                                <li>Approach : Timely Execution</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -554,24 +469,24 @@
                             <div class="square bg-img" data-background="img/couple/4.jpg">
                                 <div class="square-container d-flex align-items-end justify-content-end">
                                     <div class="box-title">
-                                        <h4>H & H</h4>
-                                        <h6>Level Park, Oxfordshire</h6>
+                                        <h4>Social</h4>
+                                        <h6>Families and Private Hosts</h6>
                                     </div>
                                 </div>
                                 <div class="flip-overlay"></div>
                             </div>
                             <div class="square2 bg-green">
                                 <div class="square-container2">
-                                    <h4>Heather & Henry</h4>
+                                    <h4>Social Celebrations</h4>
                                     <p>
-                                        Lorem nissuam nestibulum duru quam the odion elementum
-                                        ceisue the misse varie natoque enatibus et dis monte.
+                                        Birthday parties, anniversaries, baby showers, and
+                                        private gatherings delivered with a personal touch.
                                     </p>
                                     <div class="row portfolio-list mb-30">
                                         <div class="col-md-12">
                                             <ul>
-                                                <li>Wedding Planner : Rachel Starletta</li>
-                                                <li>Photographer : Janet Lewis</li>
+                                                <li>Service : Private Event Design</li>
+                                                <li>Approach : Attention to Detail</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -585,24 +500,24 @@
                             <div class="square bg-img" data-background="img/couple/2.jpg">
                                 <div class="square-container d-flex align-items-end justify-content-end">
                                     <div class="box-title">
-                                        <h4>E & M</h4>
-                                        <h6>Gold Park CA, USA</h6>
+                                        <h4>Specialized</h4>
+                                        <h6>End-to-End Solutions</h6>
                                     </div>
                                 </div>
                                 <div class="flip-overlay"></div>
                             </div>
                             <div class="square2 bg-green">
                                 <div class="square-container2">
-                                    <h4>Emily & Micheal</h4>
+                                    <h4>Specialized Services</h4>
                                     <p>
-                                        Lorem nissuam nestibulum duru quam the odion elementum
-                                        ceisue the misse varie natoque enatibus et dis monte.
+                                        Venue booking, artist management, catering, photography,
+                                        videography, logistics, and hospitality support.
                                     </p>
                                     <div class="row portfolio-list mb-30">
                                         <div class="col-md-12">
                                             <ul>
-                                                <li>Wedding Planner : Rachel Starletta</li>
-                                                <li>Photographer : Janet Lewis</li>
+                                                <li>Service : Planning to Execution</li>
+                                                <li>Approach : Transparent Coordination</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -616,24 +531,24 @@
                             <div class="square bg-img" data-background="img/couple/1.jpg">
                                 <div class="square-container d-flex align-items-end justify-content-end">
                                     <div class="box-title">
-                                        <h4>S & R</h4>
-                                        <h6>Silver Park, Oxfordshire</h6>
+                                        <h4>Founders</h4>
+                                        <h6>Pooja & Manish Thakur</h6>
                                     </div>
                                 </div>
                                 <div class="flip-overlay"></div>
                             </div>
                             <div class="square2 bg-green">
                                 <div class="square-container2">
-                                    <h4>Sophia & Robert</h4>
+                                    <h4>Leadership Strength</h4>
                                     <p>
-                                        Lorem nissuam nestibulum duru quam the odion elementum
-                                        ceisue the misse varie natoque enatibus et dis monte.
+                                        Creative planning, styling, operations, finance, and
+                                        vendor management led by a complementary founder team.
                                     </p>
                                     <div class="row portfolio-list mb-30">
                                         <div class="col-md-12">
                                             <ul>
-                                                <li>Wedding Planner : Rachel Starletta</li>
-                                                <li>Photographer : Janet Lewis</li>
+                                                <li>Pooja : Design & Client Coordination</li>
+                                                <li>Manish : Operations & Budgeting</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -647,24 +562,24 @@
                             <div class="square bg-img" data-background="img/couple/6.jpg">
                                 <div class="square-container d-flex align-items-end justify-content-end">
                                     <div class="box-title">
-                                        <h4>O & J</h4>
-                                        <h6>Blue House, London</h6>
+                                        <h4>Our USP</h4>
+                                        <h6>Why Clients Choose Tavix</h6>
                                     </div>
                                 </div>
                                 <div class="flip-overlay"></div>
                             </div>
                             <div class="square2 bg-green">
                                 <div class="square-container2">
-                                    <h4>Olivia & John</h4>
+                                    <h4>Trusted Delivery</h4>
                                     <p>
-                                        Lorem nissuam nestibulum duru quam the odion elementum
-                                        ceisue the misse varie natoque enatibus et dis monte.
+                                        No template-based planning, strong vendor partnerships,
+                                        clear costing, and premium concept execution.
                                     </p>
                                     <div class="row portfolio-list mb-30">
                                         <div class="col-md-12">
                                             <ul>
-                                                <li>Wedding Planner : Rachel Starletta</li>
-                                                <li>Photographer : Janet Lewis</li>
+                                                <li>Focus : Value Within Budget</li>
+                                                <li>Network : Trusted North India Vendors</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -674,295 +589,6 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Promo Video -->
-    <section class="video-wrapper video section-padding bg-img bg-fixed" data-overlay-dark="4"
-        data-background="img/slider/15.jpg">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-8 offset-md-2 text-center">
-                    <div class="section-subtitle"><span>Be Inspired</span></div>
-                    <div class="section-title white">
-                        Latest wedding <span>Video</span>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="text-center col-md-12">
-                    <a class="vid" href="https://youtu.be/4hCOTCCTThs">
-                        <div class="vid-butn">
-                            <span class="icon">
-                                <i class="ti-control-play"></i>
-                            </span>
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Pricing -->
-    <section class="pricing section-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-5 mb-30">
-                    <div class="section-subtitle">Best Prices</div>
-                    <div class="section-title">Pricing <span>Plan</span></div>
-                </div>
-                <div class="col-md-7 mb-30">
-                    <p>
-                        The best prices for your relaxing vacation curabit aliquet orci
-                        elit gene tristique in lorem dream vitae alisuam tincidunt felis
-                        sed gravida aliquam nesue libero hendreri mana the amenta the
-                        mollis lacus tuam maurisine. Alituam erat volutsat.
-                    </p>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="owl-carousel owl-theme">
-                        <div class="pricing left">
-                            <figure>
-                                <img src="img/pricing/01.jpg" alt="" class="img-fluid" />
-                            </figure>
-                            <div class="caption padding-left">
-                                <div class="name">Full Wedding <span>Plan</span></div>
-                                <div class="amount">$6000<span>/ starting from</span></div>
-                                <p class="white">
-                                    Curabit aliquet orci elit gene on tristique in the dream
-                                    vitaen. Aliquam tincidunt, felis sed gravida aliquam the
-                                    neque miss hendrerit magna sit amenta the mollis lacus.
-                                </p>
-                                <ul class="list-unstyled list">
-                                    <li>
-                                        <i class="ti-check"></i> Full service wedding planner
-                                    </li>
-                                    <li><i class="ti-check"></i> Wedding stylist</li>
-                                    <li><i class="ti-check"></i> Wedding advice</li>
-                                </ul>
-                                <div class="butn-light mt-30">
-                                    <a href="#"><span>See More</span></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="pricing">
-                            <figure>
-                                <img src="img/pricing/02.jpg" alt="" class="img-fluid" />
-                            </figure>
-                            <div class="caption padding-left">
-                                <div class="name">Pre-Wedding <span>Plan</span></div>
-                                <div class="amount">$6000<span>/ starting from</span></div>
-                                <p class="white">
-                                    Curabit aliquet orci elit gene on tristique in the dream
-                                    vitaen. Aliquam tincidunt, felis sed gravida aliquam the
-                                    neque miss hendrerit magna sit amenta the mollis lacus.
-                                </p>
-                                <ul class="list-unstyled list">
-                                    <li>
-                                        <i class="ti-check"></i> Full service wedding planner
-                                    </li>
-                                    <li><i class="ti-check"></i> Wedding stylist</li>
-                                    <li><i class="ti-check"></i> Wedding advice</li>
-                                </ul>
-                                <div class="butn-light mt-30">
-                                    <a href="#"><span>See More</span></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="pricing">
-                            <figure>
-                                <img src="img/pricing/03.jpg" alt="" class="img-fluid" />
-                            </figure>
-                            <div class="caption padding-left">
-                                <div class="name">Party <span>Plan</span></div>
-                                <div class="amount">$2000<span>/ starting from</span></div>
-                                <p class="white">
-                                    Curabit aliquet orci elit gene on tristique in the dream
-                                    vitaen. Aliquam tincidunt, felis sed gravida aliquam the
-                                    neque miss hendrerit magna sit amenta the mollis lacus.
-                                </p>
-                                <ul class="list-unstyled list">
-                                    <li>
-                                        <i class="ti-check"></i> Full service wedding planner
-                                    </li>
-                                    <li><i class="ti-check"></i> Wedding stylist</li>
-                                    <li><i class="ti-check"></i> Wedding advice</li>
-                                </ul>
-                                <div class="butn-light mt-30">
-                                    <a href="#"><span>See More</span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Blog -->
-    <section class="blog section-padding bg-green">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-5 mb-30">
-                    <div class="section-subtitle white">Latest News</div>
-                    <div class="section-title white">
-                        Wedding <span class="white">Blog</span>
-                    </div>
-                </div>
-                <div class="col-md-7 mb-30">
-                    <p class="white">
-                        Wedding Tips, inspiration and bridal reports. Curabit aliquet orci
-                        elit gene tristique lorem dream vitae situam tincidun felis sed
-                        gravida alisuam nemue libero hendrerit maina into amenta the
-                        mollis lacus quam maurisine in the miss erat volutpat.
-                    </p>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="owl-carousel owl-theme">
-                        <div class="item">
-                            <div class="position-re o-hidden">
-                                <img src="img/slider/18.jpg" alt="" />
-                            </div>
-                            <div class="con">
-                                <span class="category">10 Dec 2026 in <a href="#0">Trouwtips</a></span>
-                                <h5>
-                                    <a href="post.html">5 Tips On How To Be The Best Groomsman Ever</a>
-                                </h5>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="position-re o-hidden">
-                                <img src="img/slider/5.jpg" alt="" />
-                            </div>
-                            <div class="con">
-                                <span class="category">12 Dec 2026 in <a href="#0">Wedding Tips</a></span>
-                                <h5>
-                                    <a href="post.html">5 tips for a successful multilingual wedding ceremony</a>
-                                </h5>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="position-re o-hidden">
-                                <img src="img/slider/6.jpg" alt="" />
-                            </div>
-                            <div class="con">
-                                <span class="category">15 Dec 2026 in <a href="#0">Trouwtips</a></span>
-                                <h5>
-                                    <a href="post.html">Is it possible to plan a wedding in 3 months?</a>
-                                </h5>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="position-re o-hidden">
-                                <img src="img/slider/10.jpg" alt="" />
-                            </div>
-                            <div class="con">
-                                <span class="category">18 Dec 2026 in <a href="#0">Wedding</a></span>
-                                <h5>
-                                    <a href="post.html">20 Rules For How To Be The Perfect Bridesmaid</a>
-                                </h5>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="position-re o-hidden">
-                                <img src="img/slider/19.jpg" alt="" />
-                            </div>
-                            <div class="con">
-                                <span class="category">20 Dec 2026 in <a href="#0">Wedding</a></span>
-                                <h5>
-                                    <a href="post.html">How to Keep Motivated as a Wedding Planner</a>
-                                </h5>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="position-re o-hidden">
-                                <img src="img/slider/17.jpg" alt="" />
-                            </div>
-                            <div class="con">
-                                <span class="category">
-                                    24 Dec 2026 in <a href="#0">Events</a>
-                                </span>
-                                <h5>
-                                    <a href="post.html">A Colour Palette for Every Season of Love</a>
-                                </h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Signup -->
-    <section class="signup">
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-md-6 p-0">
-                    <div class="img left"><img src="img/signup.jpg" alt="" /></div>
-                </div>
-                <div class="col-md-6 p-0 valign">
-                    <div class="content">
-                        <div class="cont text-left">
-                            <h6>Sign Up</h6>
-                            <h4>Subscribe to the <span>Newsletter</span></h4>
-                            <p>
-                                For the latest inspiration and insider tips straight to your
-                                inbox.
-                            </p>
-                            <form method="post" class="contact__form" action="#">
-                                <!-- form message -->
-                                <div class="row">
-                                    <div class="col-12">
-                                        <div class="alert alert-success contact__msg" style="display: none"
-                                            role="alert">
-                                            Your message was sent successfully.
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- form elements -->
-                                <div class="row">
-                                    <div class="col-md-12 form-group">
-                                        <input name="name" type="text" placeholder="Full Name *" required />
-                                    </div>
-                                    <div class="col-md-12 form-group">
-                                        <input name="email" type="email" placeholder="Email Address *" required />
-                                    </div>
-                                    <div class="col-md-12">
-                                        <button class="butn-dark"><span>Subscripe</span></button>
-                                    </div>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Clients -->
-    <section class="clients">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12 owl-carousel owl-theme">
-                    <div class="clients-logo">
-                        <a href="#0"><img src="img/clients/1.png" alt="" /></a>
-                    </div>
-                    <div class="clients-logo">
-                        <a href="#0"><img src="img/clients/2.png" alt="" /></a>
-                    </div>
-                    <div class="clients-logo">
-                        <a href="#0"><img src="img/clients/3.png" alt="" /></a>
-                    </div>
-                    <div class="clients-logo">
-                        <a href="#0"><img src="img/clients/4.png" alt="" /></a>
-                    </div>
-                    <div class="clients-logo">
-                        <a href="#0"><img src="img/clients/5.png" alt="" /></a>
-                    </div>
-                    <div class="clients-logo">
-                        <a href="#0"><img src="img/clients/6.png" alt="" /></a>
                     </div>
                 </div>
             </div>
