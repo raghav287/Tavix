@@ -12,11 +12,24 @@
     </svg>
 </div>
 <!-- Navbar -->
+<?php
+$currentPage = basename($_SERVER['PHP_SELF']);
+$servicePages = [
+    'services.php',
+    'wedding-planning.php',
+    'destination-weddings.php',
+    'corporate-events.php',
+    'social-events.php',
+    'luxury-decor-styling.php',
+    'end-to-end-event-management.php',
+    'service-detail.php'
+];
+?>
 <nav class="navbar navbar-expand-lg">
     <div class="container">
         <!-- Logo -->
         <div class="logo-wrapper">
-            <a class="logo" href="index-2.html">
+            <a class="logo" href="#">
                 <img src="img/logo.png" class="logo-img" alt="" />
             </a>
             <!-- <a class="logo" href="index.html"> <h2>Florya</h2> </a> -->
@@ -29,9 +42,9 @@
         <!-- Menu -->
         <div class="collapse navbar-collapse" id="navbar">
             <ul class="navbar-nav ms-auto">
-                <li class="nav-item dropdown">
-                    <a class="nav-link active dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
-                        data-bs-auto-close="outside" aria-expanded="false">Home</a>
+                <li class="nav-item">
+                    <a class="nav-link <?php echo in_array($currentPage, ['index.php', 'index.html', 'index-2.html', 'index2.html', 'index3.html', 'index4.html']) ? 'active' : ''; ?>"
+                        href="index.php">Home</a>
                     <!-- <ul class="dropdown-menu">
                         <li>
                             <a href="index-2.html" class="dropdown-item active"><span>Slider</span></a>
@@ -51,10 +64,12 @@
                     </ul> -->
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="about.html">About</a>
+                    <a class="nav-link <?php echo $currentPage === 'about.php' ? 'active' : ''; ?>"
+                        href="about.php">About</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="services.html">Services</a>
+                    <a class="nav-link <?php echo in_array($currentPage, $servicePages) ? 'active' : ''; ?>"
+                        href="services.php">Services</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
@@ -112,10 +127,12 @@
                     </ul>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="gallery.html">Gallery</a>
+                    <a class="nav-link <?php echo $currentPage === 'gallery.html' ? 'active' : ''; ?>"
+                        href="gallery.html">Gallery</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="contact.html">Contact</a>
+                    <a class="nav-link <?php echo $currentPage === 'contact.html' ? 'active' : ''; ?>"
+                        href="contact.html">Contact</a>
                 </li>
             </ul>
         </div>
